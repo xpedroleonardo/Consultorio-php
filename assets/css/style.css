@@ -1,0 +1,8 @@
+td, th {
+    padding: 15px 5px;
+    display: table-cell;
+    text-align: center !important;
+    vertical-align: middle;
+    border-radius: 2px;
+    margin: 0 10%;
+}
