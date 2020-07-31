@@ -1,9 +1,9 @@
 <h1 align='center'>Consultório Médico</h1>
 
 <div>
-    <h3 align='center'>
+    <p align='center'>
     <img src="./assets/gif/Projeto.gif">
-    <h3>
+    <p>
 <div>
 
 ---
