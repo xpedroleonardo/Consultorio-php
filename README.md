@@ -31,4 +31,3 @@ Assim, nesse projeto é possível ler, alterar, criar e deletar **(CRUD)**, das 
 ```
 
 ---
-## 💻   Desenvolvido por Pedro Leonardo
